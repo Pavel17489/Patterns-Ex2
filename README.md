@@ -1,0 +1,1 @@
+# Patterns-Ex2 [![Java CI with Gradle](https://github.com/Pavel17489/Patterns-Ex2/actions/workflows/gradle.yml/badge.svg)](https://github.com/Pavel17489/Patterns-Ex2/actions/workflows/gradle.yml)
